@@ -1,0 +1,30 @@
+👦迷人的我又来啦：{{word.DATA}} 💕 
+
+⏱️现在是：{{time.DATA}} 
+
+🦄当前位置：{{location.DATA}} 
+
+实时天气：{{now_temp.DATA}}°C {{now_weather.DATA}} 
+气象：{{now_wind_dir.DATA}}{{now_wind_class.DATA}} | 湿度{{now_rh.DATA}}% 
+今天：{{today_weather.DATA}} {{today_high.DATA}}/{{today_low.DATA}}°C 
+明天：{{tomorrow_weather.DATA}} {{tomorrow_high.DATA}}/{{tomorrow_low.DATA}}°C 
+
+😍我们已经相识：{{meet_days.DATA}}天 
+
+英：{{daily_english_en1.DATA}}{{daily_english_en2.DATA}} 
+
+中：{{daily_english_cn1.DATA}}{{daily_english_cn2.DATA}}
+
+_____________________________________________________________
+
+👦迷人的我又来啦：{{word.DATA}} 💕
+
+⏱️现在是：{{time.DATA}}
+
+🦄当前位置：{{location.DATA}}
+
+😍我们已经相识：{{meet_days.DATA}}天
+
+名言：{{saying.DATA}}
+
+出处:{{title.DATA}}
